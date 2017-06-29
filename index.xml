@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <copyright>true</copyright>
-    <lastBuildDate>Sat, 10 Jun 2017 21:35:17 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kanchalverabike.github.io/kvb/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inscripciones Carrera BTT</title>
+      <link>https://kanchalverabike.github.io/kvb/blog/inscripcion-race/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanchalverabike.github.io/kvb/blog/inscripcion-race/</guid>
+      <description> Inscripción a la I Edición de BTT kanchal vera bike 2017 Al realizar tu inscripción puedes beneficiarte de un precio especial al comprar alguno de nuestros articulos de La Vera.
+Como inscribirte </description>
+    </item>
+    
+    <item>
+      <title>Inscripcion BTT</title>
+      <link>https://kanchalverabike.github.io/kvb/</link>
+      <pubDate>Sat, 10 Jun 2017 21:35:17 -0700</pubDate>
+      
+      <guid>https://kanchalverabike.github.io/kvb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Itinerary KVB</title>
+      <link>https://kanchalverabike.github.io/kvb/blog/itinerary-race/</link>
+      <pubDate>Sat, 10 Jun 2017 21:35:17 -0700</pubDate>
+      
+      <guid>https://kanchalverabike.github.io/kvb/blog/itinerary-race/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Itinerary KVB</title>
@@ -22,11 +50,20 @@
     </item>
     
     <item>
-      <title>One more KVB</title>
-      <link>https://kanchalverabike.github.io/kvb/</link>
+      <title>Other Race</title>
+      <link>https://kanchalverabike.github.io/kvb/blog/next-race/</link>
       <pubDate>Sat, 10 Jun 2017 21:35:17 -0700</pubDate>
       
-      <guid>https://kanchalverabike.github.io/kvb/</guid>
+      <guid>https://kanchalverabike.github.io/kvb/blog/next-race/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other Race</title>
+      <link>https://kanchalverabike.github.io/kvb/blog/other-race/</link>
+      <pubDate>Sat, 10 Jun 2017 21:35:17 -0700</pubDate>
+      
+      <guid>https://kanchalverabike.github.io/kvb/blog/other-race/</guid>
       <description></description>
     </item>
     
@@ -45,6 +82,24 @@
       <pubDate>Sat, 10 Jun 2017 21:35:17 -0700</pubDate>
       
       <guid>https://kanchalverabike.github.io/kvb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road &#39;La Vera&#39;</title>
+      <link>https://kanchalverabike.github.io/kvb/blog/cotobike-info/</link>
+      <pubDate>Sat, 10 Jun 2017 21:35:17 -0700</pubDate>
+      
+      <guid>https://kanchalverabike.github.io/kvb/blog/cotobike-info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road &#39;La Vera&#39;</title>
+      <link>https://kanchalverabike.github.io/kvb/blog/kanchal-la-vera/</link>
+      <pubDate>Sat, 10 Jun 2017 21:35:17 -0700</pubDate>
+      
+      <guid>https://kanchalverabike.github.io/kvb/blog/kanchal-la-vera/</guid>
       <description></description>
     </item>
     
